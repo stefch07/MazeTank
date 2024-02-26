@@ -604,7 +604,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.57, y: 0.29, z: -10}
+  m_LocalPosition: {x: -4.92, y: 0.21, z: -10}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
@@ -732,7 +732,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0.042396545, y: 0, z: 0, w: 0}
+  m_margin: {x: 0.15958405, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1239,7 +1239,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -726, y: 557}
+  m_AnchoredPosition: {x: -726, y: 597}
   m_SizeDelta: {x: 1366.9673, y: 412.9157}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1170381995
@@ -2426,7 +2426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7562961240964396777, guid: b1590e7805735429e889e4edfa631106, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.5917
+      value: -4.92
       objectReference: {fileID: 0}
     - target: {fileID: 7562961240964396777, guid: b1590e7805735429e889e4edfa631106, type: 3}
       propertyPath: m_LocalPosition.y
